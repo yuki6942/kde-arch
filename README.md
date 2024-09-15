@@ -21,5 +21,6 @@ omf install slacker
 
 ## KDE Theme
 
-Please note that the release version may be outdated. For the KDE theme used in this setup, check out the latest version of [Layan KDE](https://github.com/vinceliuice/Layan-kde).
+Download a konsave [here](https://yuki.has.rocks/yuki-kde-theme.knsv)
 
+Please note that the release version may be outdated. For the KDE theme used in this setup, check out the latest version of [Layan KDE](https://github.com/vinceliuice/Layan-kde).
