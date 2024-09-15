@@ -1,5 +1,8 @@
 # Yuki KDE-Arch
 
+![Preview](https://raw.githubusercontent.com/yuki6942/kde-arch/main/preview.png)
+
+
 ## Wallpaper
 
 The wallpaper used in this setup can be found [here](https://github.com/yuki6942/wallpaper).
